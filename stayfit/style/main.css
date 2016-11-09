@@ -302,6 +302,7 @@ h3{
     border-top: 0;
     color: #fff;
     font-size: 18px;
+    width: 220px;
 }
 .formBox a{
 	margin-top: 10px;
@@ -438,9 +439,8 @@ h3{
 		padding: 15px 30px 10px 10px;
 	}
 	.wform a{
-		padding: 15px 0px;
-		width: 235px;
-		text-align: center;
+		padding: 15px 50px;
+    	width: 167px;
 	}
 	.formBox{
 		width: 265px;
@@ -482,8 +482,7 @@ h3{
     	text-align: left;
 	}
 	.bl5-main a{
-		width: 166px;
-    	text-align: center;
+		padding: 15px 80px;
 	}
 	.pitem:first-child {
     	margin-left: 155px;
