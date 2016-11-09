@@ -146,6 +146,7 @@ h1, h2{
 .b-phone a{
 	display: block;
 	color:#fff000;
+	font-size: 18px;
 }
 .b-phone a:hover{
 	text-decoration: none;
