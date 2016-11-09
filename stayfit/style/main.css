@@ -438,8 +438,9 @@ h3{
 		padding: 15px 30px 10px 10px;
 	}
 	.wform a{
-		padding: 15px 50px;
-    	width: 167px;
+		padding: 15px 0px;
+		width: 235px;
+		text-align: center;
 	}
 	.formBox{
 		width: 265px;
@@ -481,7 +482,8 @@ h3{
     	text-align: left;
 	}
 	.bl5-main a{
-		padding: 15px 80px;
+		width: 166px;
+    	text-align: center;
 	}
 	.pitem:first-child {
     	margin-left: 155px;
